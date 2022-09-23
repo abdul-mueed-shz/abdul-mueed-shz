@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/al_mo_eed/">
     <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/mueed_shz">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
