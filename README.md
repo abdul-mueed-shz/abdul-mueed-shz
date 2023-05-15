@@ -31,8 +31,16 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: Associate Software Engineer at PironLabs Lahore
+
+👋 Hello, I'm Abdul Mueed Shahbaz, a Full Stack Web Application and Browser Extensions Developer from Pakistan. With expertise in Vue.js, Quasar, and Django Rest, I specialize in creating robust and scalable web applications.
+
+🚀 As a highly efficient and perspicacious developer, I thrive in fast-paced environments and excel at translating complex requirements into elegant solutions. I have a passion for crafting intuitive user experiences and leveraging the latest technologies to build innovative digital products.
+
+💼 Throughout my career, I have successfully delivered end-to-end projects, ranging from single-page applications to complex browser extensions. My strong command over front-end frameworks and back-end development allows me to seamlessly integrate various components, ensuring a seamless user experience.
+
+🌟 I am constantly exploring new technologies and staying up-to-date with industry trends. This empowers me to deliver cutting-edge solutions and incorporate best practices into my development workflow.
+
+🌍 I am actively seeking opportunities to collaborate on exciting projects, where I can contribute my skills and expertise. If you're looking for a dedicated developer who can deliver high-quality code and drive your project's success, let's connect!
 
 - :smiley: Ex-GDSC core team member and developer at ITU
 
