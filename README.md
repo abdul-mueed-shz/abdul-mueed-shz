@@ -38,9 +38,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :camera: Mindstorm GameJam 2021 graduate fellow
 
-- :seedling: Exploring Backend for web applications.
+- :seedling: Exploring Backend for web applications, Cross Platform Mobile Application and Browser Extensions development.
 
-- :zap: In my free time, I work on personal projects, play video games, watch tv shows and read technical articles.
+- :zap: In my free time, I work on personal projects, play video games, watch tv shows/anime and read technical articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mueed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-mueed-shahbaz-8455b618a/)
 
