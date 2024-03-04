@@ -6,7 +6,7 @@
 </div>
 
 <div  align="center" id="badges">
-  <a href="https://www.linkedin.com/in/abdul-mueed-shahbaz-8455b618a/">
+  <a href="https://www.linkedin.com/in/abdul-mueed-shz">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/moeedrajpootx">
