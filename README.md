@@ -26,9 +26,9 @@
 
 <div align="center">
 
-[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Mueed-Shahbaz&show_icons=true&theme=tokyonight)](https://github.com/Abdul-Mueed-Shahbaz/github-readme-stats)
+[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-mueed-shz&show_icons=true&theme=tokyonight)](https://github.com/Abdul-Mueed-Shahbaz/github-readme-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdul-Mueed-Shahbaz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdul-mueed-shz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 </div>
 
