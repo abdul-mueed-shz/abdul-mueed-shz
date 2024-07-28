@@ -34,7 +34,7 @@
 
 ### :woman_technologist: About Me :
 
-👋 Hello, I'm Abdul Mueed Shahbaz, a Full Stack Web Application and Browser Extensions Developer from Pakistan. With expertise in Vue.js, Quasar, and Django Rest, I specialize in creating robust and scalable web applications.
+👋 Hello, I'm Abdul Mueed Shahbaz, a Full Stack Web Application Developer from Pakistan. With expertise in Springboot, React Js, Vue.js, and Django Rest, I specialize in creating robust and scalable web applications.
 
 🚀 As a highly efficient and perspicacious developer, I thrive in fast-paced environments and excel at translating complex requirements into elegant solutions. I have a passion for crafting intuitive user experiences and leveraging the latest technologies to build innovative digital products.
 
@@ -57,6 +57,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Sprint" alt="SPRING" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="REACT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VUEJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
